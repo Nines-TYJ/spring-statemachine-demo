@@ -20,7 +20,7 @@ import java.util.Objects;
 /**
  * @author tanyujie
  * @classname TransferStateMachineConfigurer
- * @description 划款任务明细 状态机配置类
+ * @description 状态机配置类
  * @date 2022/5/25 10:31
  * @since 1.0
  */

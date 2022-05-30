@@ -12,7 +12,7 @@ import org.springframework.statemachine.persist.StateMachinePersister;
 /**
  * @author tanyujie
  * @classname PersistConfig
- * @description TODO
+ * @description 状态机持久化
  * @date 2022/5/30 10:50
  * @since 1.0
  */

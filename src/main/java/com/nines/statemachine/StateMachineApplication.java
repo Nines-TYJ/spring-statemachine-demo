@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * @author tanyujie
  * @classname StateMachineApplication
- * @description TODO
+ * @description 启动类
  * @date 2022/5/30 11:41
  * @since 1.0
  */

@@ -6,7 +6,7 @@ import com.nines.statemachine.entity.TransferTaskDetails;
 /**
  * @author tanyujie
  * @classname TransferTaskDetailsMapper
- * @description TODO
+ * @description mapper
  * @date 2022/5/30 10:15
  * @since 1.0
  */

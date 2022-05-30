@@ -17,7 +17,7 @@ import java.util.Objects;
 /**
  * @author tanyujie
  * @classname TransferStateMachinePersist
- * @description TODO
+ * @description 状态机持久化
  * @date 2022/5/30 10:25
  * @since 1.0
  */
